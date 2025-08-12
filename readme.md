@@ -1,7 +1,7 @@
 # Car Damage Detection
 
 ## Dataset - Car Damage Detection by Anuj Shah
-Link[https://github.com/basel-ay/Automated-Car-Damage-/Detection]
+Link[https://www.kaggle.com/datasets/anujms/car-damage-detection]
 
 - The Dataset structure:
     1. training: 
@@ -14,7 +14,6 @@ Link[https://github.com/basel-ay/Automated-Car-Damage-/Detection]
     Total files: 2299
 
 ## Pipeline
-
     1. Data Preparation
         - Load data
         - Label Encoding
