@@ -24,8 +24,7 @@ Link[https://www.kaggle.com/datasets/anujms/car-damage-detection]
     3. Model
     4. Training
     5. Evaluation
-    6. Model improvement
-
+myy 
 
 ### 1. Data Preparation
 - Load Data: Load the images into the dataset.
